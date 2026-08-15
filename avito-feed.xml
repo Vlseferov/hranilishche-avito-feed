@@ -1,0 +1,463 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Ads target="Avito.ru" formatVersion="3">
+  <Ad>
+    <Id>HRU-SPB-DISTRICT-01-2026</Id>
+    <DateBegin>2099-01-01 09:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>1200</Price>
+    <Title>Хранение вещей с вывозом из Адмиралтейского района</Title>
+    <Description>Нужно освободить квартиру в Адмиралтейском районе перед ремонтом, но мебель нельзя просто вынести во двор или оставить строителям?
+
+Организуем вывоз по вашему адресу: заранее уточним этаж, наличие лифта, ширину проходов и состав имущества. При необходимости согласуем разборку и упаковку мебели, защиту углов, зеркал и бытовой техники. При приёмке всё маркируется, фотографируется и фиксируется в акте, затем размещается на тёплой охраняемой площадке.
+
+В личном кабинете доступны фотографии, перечень, срок, стоимость и документы. После ремонта вернём всё сразу либо только выбранные позиции на прежний или новый адрес.
+
+Хранение крупного имущества — от 1 200 ₽ в месяц. Логистика, грузчики, этажность и упаковка рассчитываются после состава заказа.</Description>
+    <Address>Санкт-Петербург, 17-я линия Васильевского острова, 52к2</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/01-consumer-storage.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>HRU-SPB-DISTRICT-02-2026</Id>
+    <DateBegin>2099-01-01 09:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>1200</Price>
+    <Title>Освободим квартиру на время ремонта на Васильевском</Title>
+    <Description>Если ремонт идёт по комнатам, необязательно каждый раз переносить диван, шкаф и коробки из угла в угол. Заберём мешающее имущество с адреса в Василеостровском районе и вернём его, когда этап работ закончится.
+
+Можно передать мебель, бытовую технику, ковры, декор, книги и упакованные личные вещи. Состав согласуем заранее. При необходимости организуем разборку, упаковочные материалы и грузчиков. На приёмке фиксируем состояние и фотографируем каждую позицию.
+
+Хранение ведётся на тёплой охраняемой площадке. В личном кабинете видны вещи, сроки, начисления и документы. Если сначала понадобятся книги или отдельная коробка, можно оформить частичный возврат.
+
+Цена зависит от объёма и срока; вывоз и возврат считаются отдельно.</Description>
+    <Address>Санкт-Петербург, 17-я линия Васильевского острова, 52к2</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/02-consumer-storage.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>HRU-SPB-DISTRICT-03-2026</Id>
+    <DateBegin>2099-01-01 09:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>600</Price>
+    <Title>Заберём сезонные вещи из Выборгского района</Title>
+    <Description>Балкон и кладовая нужны каждый день, а чемоданы, детская коляска, лыжи, сноуборд, санки и коробки с сезонной одеждой используются несколько недель в году.
+
+Заберём подходящие вещи по адресу в Выборгском районе, промаркируем и сфотографируем при приёмке. Стандартные коробки и сумки считаются по местам, нестандартные предметы — по габаритам. До передачи согласуем перечень и подтвердим, что имущество подходит для хранения.
+
+Фотографии, срок, стоимость и документы доступны в личном кабинете. Когда начнётся новый сезон, можно заказать возврат всей партии или только нужных позиций.
+
+Ориентир — от 600 ₽ за стандартную коробку или сопоставимое место в месяц. Забор по адресу рассчитывается отдельно; для маленькой партии возможна передача через офис по записи.</Description>
+    <Address>Санкт-Петербург, 17-я линия Васильевского острова, 52к2</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/03-consumer-storage.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>HRU-SPB-DISTRICT-04-2026</Id>
+    <DateBegin>2099-01-01 09:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>600</Price>
+    <Title>Хранение коробок и чемоданов в Калининском районе</Title>
+    <Description>Подходит, если нужно убрать несколько коробок, сумок или чемоданов и не хочется платить за пустующее место в отдельной кладовой.
+
+Для жителей Калининского района организуем забор по адресу либо приём небольшой партии через офис по предварительной записи. Каждое место получает инвентарную отметку, фотографируется и появляется в личном кабинете вместе со сроком и стоимостью.
+
+Стандартный ориентир — от 600 ₽ за одно место в месяц. Нестандартные или крупные предметы оцениваем по фотографии и размерам. Логистика не входит в минимальную цену и согласуется заранее.
+
+По заявке вернём всю партию или выбранные коробки. Перед передачей обязательно перечислите содержимое: мы заранее подтвердим возможность приёма.</Description>
+    <Address>Санкт-Петербург, 17-я линия Васильевского острова, 52к2</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/04-consumer-storage.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>HRU-SPB-DISTRICT-05-2026</Id>
+    <DateBegin>2099-01-01 09:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>1200</Price>
+    <Title>Хранение вещей между переездами в Кировском районе</Title>
+    <Description>Когда даты выезда и получения ключей не совпали, вещи не должны путешествовать по знакомым и временным квартирам.
+
+Заберём имущество с адреса в Кировском районе, при необходимости разберём и упакуем мебель, промаркируем коробки и зафиксируем состояние фотографиями. Разместим всё на хранение до готовности нового адреса, затем организуем возврат.
+
+В личном кабинете остаётся понятный перечень имущества, документы, срок и начисления. Можно вернуть отдельные позиции раньше основной партии — например, рабочее кресло или коробки с повседневными вещами.
+
+Хранение — от 1 200 ₽ в месяц в зависимости от объёма. Вывоз, грузчики, этаж, упаковка и финальная доставка рассчитываются отдельно.</Description>
+    <Address>Санкт-Петербург, 17-я линия Васильевского острова, 52к2</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/05-consumer-storage.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>HRU-SPB-DISTRICT-06-2026</Id>
+    <DateBegin>2099-01-01 09:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>1200</Price>
+    <Title>Вывоз и хранение мебели из Колпинского района</Title>
+    <Description>Заберём мебель, упакованную технику и коробки с адреса в Колпинском районе на срок ремонта. Это удобно, когда имущество нужно вывести одной партией и не перевозить несколько раз между временными помещениями.
+
+До выезда оцениваем фотографии, этаж, лифт и подъезд для транспорта. Разборку крупной мебели и упаковку согласуем отдельно. На приёмке имущество маркируется, фотографируется и включается в акт.
+
+Хранение проходит на тёплой охраняемой площадке. Через личный кабинет можно проверить перечень, фотографии, документы, срок и стоимость. Возврат организуем после готовности помещения — весь заказ либо выбранную часть.
+
+Стоимость хранения зависит от фактического объёма. Логистику до Колпино подтверждаем в расчёте до начала работ.</Description>
+    <Address>Санкт-Петербург, 17-я линия Васильевского острова, 52к2</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/06-consumer-storage.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>HRU-SPB-DISTRICT-07-2026</Id>
+    <DateBegin>2099-01-01 09:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>1200</Price>
+    <Title>Хранение вещей до готовности квартиры на Охте</Title>
+    <Description>Квартира в Красногвардейском районе уже куплена, но везти мебель и коробки внутрь ещё рано? Примем имущество на промежуточное хранение и доставим после завершения отделки.
+
+Можем забрать вещи со старого адреса, из пункта временного размещения или согласовать единую партию. Коробки и предметы маркируются, состояние фиксируется фотографиями и актом. Крупную мебель при необходимости разбираем и упаковываем по согласованию.
+
+В личном кабинете доступны фотографии, перечень, срок, стоимость и документы. Если рабочее место или часть бытовых вещей понадобится раньше, оформим частичную выдачу.
+
+Хранение — от 1 200 ₽ в месяц по фактическому объёму. Логистика и упаковка считаются отдельно.</Description>
+    <Address>Санкт-Петербург, 17-я линия Васильевского острова, 52к2</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/07-consumer-storage.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>HRU-SPB-DISTRICT-08-2026</Id>
+    <DateBegin>2099-01-01 09:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>600</Price>
+    <Title>Сезонное хранение вещей в Красносельском районе</Title>
+    <Description>Освободим дом, квартиру или кладовую от вещей, которые нужны только в определённый сезон: упакованного текстиля, складной мебели, чемоданов, коробок, санок и других согласованных бытовых предметов.
+
+Выезжаем по адресам Красносельского района. До заказа просим перечень или фотографии, чтобы подтвердить возможность приёма и честно рассчитать объём. На приёмке имущество маркируется и фотографируется, документы и стоимость доступны в личном кабинете.
+
+Вернуть можно всю партию к началу сезона или заказать только отдельные позиции. Хранение стандартного места — от 600 ₽ в месяц, нестандартные вещи считаются по габаритам. Вывоз и возврат согласуются отдельно.</Description>
+    <Address>Санкт-Петербург, 17-я линия Васильевского острова, 52к2</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/08-consumer-storage.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>HRU-SPB-DISTRICT-09-2026</Id>
+    <DateBegin>2099-01-01 09:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>1200</Price>
+    <Title>Заберём вещи на хранение из Кронштадта</Title>
+    <Description>Организуем плановый вывоз мебели, коробок и сезонных бытовых вещей из Кронштадта на тёплое охраняемое хранение.
+
+Для удалённого района особенно важно заранее собрать заказ: просим фотографии, количество мест, этаж, лифт и желаемый срок. Так мы сразу оценим подходящий транспорт и стоимость рейса без сюрпризов в день погрузки. При необходимости согласуем упаковку и разборку мебели.
+
+На приёмке имущество маркируется, фотографируется и вносится в акт. Клиент видит состав, документы, срок и начисления в личном кабинете. Возврат планируется заранее; можно вернуть всю партию или отдельные позиции, если это экономически разумно.</Description>
+    <Address>Санкт-Петербург, 17-я линия Васильевского острова, 52к2</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/09-consumer-storage.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>HRU-SPB-DISTRICT-10-2026</Id>
+    <DateBegin>2099-01-01 09:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>1200</Price>
+    <Title>Хранение вещей из загородного дома в Курортном районе</Title>
+    <Description>Примем на хранение согласованное имущество из дома или квартиры в Курортном районе: упакованный текстиль, складную мебель, коробки, чемоданы, декор и другие сухие бытовые вещи.
+
+Перед выездом проверим состав по фотографиям, оценим объём и подъезд транспорта. При необходимости согласуем защитную упаковку. Каждая позиция фиксируется фотографиями и актом, после чего размещается на тёплой охраняемой площадке.
+
+В личном кабинете остаются фотографии, перечень, документы, срок и стоимость. Возврат можно запланировать к открытию сезона или завершению работ в доме.
+
+Цена зависит от объёма и срока. Адресная логистика по Курортному району рассчитывается отдельно и подтверждается заранее.</Description>
+    <Address>Санкт-Петербург, 17-я линия Васильевского острова, 52к2</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/10-consumer-storage.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>HRU-SPB-DISTRICT-11-2026</Id>
+    <DateBegin>2099-01-01 09:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>1200</Price>
+    <Title>Бережное хранение мебели в Московском районе</Title>
+    <Description>Освободим квартиру в Московском районе перед ремонтом: согласуем разборку, упаковку, погрузку, хранение и обратную доставку.
+
+Работаем с мебелью, бытовой техникой, коврами, декором и коробками с личными вещами после предварительного согласования. Для деликатных поверхностей подбираем защиту, состояние фиксируем фотографиями при приёмке. Имущество маркируется и отражается в акте.
+
+Клиенту не нужно приезжать на склад: в личном кабинете доступны фотографии, состав, документы, сроки и начисления. По завершении ремонта вернём всё имущество или только ту часть, для которой уже готово место.
+
+Стоимость хранения зависит от объёма; упаковка, грузчики и логистика считаются отдельно и утверждаются до работ.</Description>
+    <Address>Санкт-Петербург, 17-я линия Васильевского острова, 52к2</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/11-consumer-storage.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>HRU-SPB-DISTRICT-12-2026</Id>
+    <DateBegin>2099-01-01 09:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>1200</Price>
+    <Title>Хранение вещей при переезде в Невском районе</Title>
+    <Description>Если старый адрес нужно освободить сейчас, а новая квартира в Невском районе ещё не готова к заселению, заберём имущество на промежуточное хранение.
+
+Согласуем день вывоза, состав, этаж и лифт. При необходимости организуем разборку и упаковку мебели. Коробки и предметы маркируются, фотографируются и заносятся в акт. До доставки на новый адрес вещи находятся на тёплой охраняемой площадке.
+
+В личном кабинете видны фотографии, перечень, документы, срок и стоимость. Можно заказать частичный возврат, если в первую очередь готовы кухня, детская или рабочее место.
+
+Хранение — от 1 200 ₽ в месяц по объёму. Два этапа логистики считаются отдельно.</Description>
+    <Address>Санкт-Петербург, 17-я линия Васильевского острова, 52к2</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/12-consumer-storage.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>HRU-SPB-DISTRICT-13-2026</Id>
+    <DateBegin>2099-01-01 09:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>1200</Price>
+    <Title>Хранение мебели на время ремонта на Петроградке</Title>
+    <Description>Ремонт в Петроградском районе требует свободного пространства и аккуратного обращения с обстановкой. Организуем вывоз мебели, упакованных светильников, ковров, зеркал, декора и коробок с личными вещами после предварительного согласования.
+
+До начала работ уточняем габариты, проходы, этаж и лифт. Согласуем разборку и тип защитной упаковки. На приёмке состояние фиксируется фотографиями, каждая позиция маркируется и включается в акт.
+
+Имущество хранится на тёплой охраняемой площадке. В личном кабинете доступны фотографии, перечень, документы и начисления. Возврат выполняется на прежний или новый адрес, полностью либо по частям.</Description>
+    <Address>Санкт-Петербург, 17-я линия Васильевского острова, 52к2</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/13-consumer-storage.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>HRU-SPB-DISTRICT-14-2026</Id>
+    <DateBegin>2099-01-01 09:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>1200</Price>
+    <Title>Вывоз вещей на хранение из Петергофа и Ломоносова</Title>
+    <Description>Заберём согласованные бытовые вещи, мебель и коробки из Петергофа, Ломоносова и других адресов Петродворцового района на период ремонта, переезда или закрытия сезона.
+
+Чтобы поездка была предсказуемой, заранее собираем фотографии, размеры крупных предметов, информацию об этаже и подъезде. При необходимости согласуем разборку и упаковку. На приёмке имущество маркируется, фотографируется и отражается в документах.
+
+Хранение проходит на тёплой охраняемой площадке. Перечень, фотографии, срок и стоимость доступны в личном кабинете. Обратную доставку планируем к нужной дате.
+
+Цена хранения зависит от объёма, а логистика — от точного адреса и состава заказа.</Description>
+    <Address>Санкт-Петербург, 17-я линия Васильевского острова, 52к2</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/14-consumer-storage.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>HRU-SPB-DISTRICT-15-2026</Id>
+    <DateBegin>2099-01-01 09:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>600</Price>
+    <Title>Хранение детских и сезонных вещей в Приморском районе</Title>
+    <Description>Вернём квартире полезные метры: заберём временно ненужные детские и сезонные вещи по адресу в Приморском районе.
+
+Можно передать коляску, санки, велосипеды, чемоданы, коробки с одеждой и другие заранее согласованные бытовые предметы. На приёмке всё фотографируется и маркируется. В личном кабинете видны состав, срок, стоимость и документы.
+
+Когда вещи понадобятся снова, закажите возврат всей партии или отдельных позиций. Для нескольких стандартных коробок действует ориентир от 600 ₽ за место в месяц; крупные предметы оцениваются по габаритам. Забор и возврат по адресу рассчитываются отдельно.
+
+Перед заказом мы подтверждаем перечень — так обе стороны точно знают, что принимается на хранение.</Description>
+    <Address>Санкт-Петербург, 17-я линия Васильевского острова, 52к2</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/15-consumer-storage.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>HRU-SPB-DISTRICT-16-2026</Id>
+    <DateBegin>2099-01-01 09:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>1200</Price>
+    <Title>Хранение вещей с вывозом из Пушкина и Шушар</Title>
+    <Description>Организуем временное хранение мебели, упакованной техники и коробок для жителей Пушкина, Шушар и других адресов Пушкинского района.
+
+Подходит, если новый адрес ещё не готов, в доме идёт ремонт или часть имущества временно не помещается. До выезда оцениваем фотографии, этаж, лифт и подъезд транспорта. Разборку крупной мебели и упаковку согласуем отдельно.
+
+При приёмке имущество маркируется, фотографируется и включается в акт. Состав, документы, срок и стоимость доступны в личном кабинете. Вернуть можно всю партию либо только нужную часть.
+
+Хранение начинается от 1 200 ₽ в месяц и зависит от фактического объёма. Логистика рассчитывается по точному адресу.</Description>
+    <Address>Санкт-Петербург, 17-я линия Васильевского острова, 52к2</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/16-consumer-storage.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>HRU-SPB-DISTRICT-17-2026</Id>
+    <DateBegin>2099-01-01 09:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>600</Price>
+    <Title>Хранение коробок и сумок во Фрунзенском районе</Title>
+    <Description>Если нужно убрать 3–10 коробок, сумки или чемоданы, отдельная кладовая часто оказывается избыточной. Принимаем небольшие партии на поштучное хранение.
+
+По Фрунзенскому району возможен забор с адреса. Если вещей мало, их можно передать через офис по предварительной записи и не оплачивать отдельный рейс. Каждое место фотографируется, маркируется и отображается в личном кабинете вместе со сроком, стоимостью и документами.
+
+Ориентир — от 600 ₽ за стандартную коробку или сопоставимое место в месяц. Перед передачей пришлите перечень содержимого и размеры: нестандартные вещи оцениваются отдельно, а возможность приёма подтверждается заранее.</Description>
+    <Address>Санкт-Петербург, 17-я линия Васильевского острова, 52к2</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/17-consumer-storage.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>HRU-SPB-DISTRICT-18-2026</Id>
+    <DateBegin>2099-01-01 09:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>1200</Price>
+    <Title>Бережный вывоз вещей на хранение из центра Петербурга</Title>
+    <Description>Освободим квартиру в Центральном районе перед ремонтом и организуем весь цикл: оценку, согласованную упаковку, вынос, хранение и возврат.
+
+Заранее уточняем двор, возможность подъезда, этаж, лифт, узкие проходы и габариты мебели. Это помогает подобрать транспорт и команду без импровизации на месте. Состояние имущества фиксируется фотографиями, позиции маркируются и включаются в акт.
+
+Хранение проходит на тёплой охраняемой площадке. В личном кабинете доступны фотографии, состав, документы, срок и начисления. После ремонта доставим всё сразу либо поэтапно, когда помещения будут готовы.
+
+Хранение — от 1 200 ₽ в месяц по фактическому объёму; упаковка и адресная логистика рассчитываются отдельно.</Description>
+    <Address>Санкт-Петербург, 17-я линия Васильевского острова, 52к2</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/18-consumer-storage.png" />
+    </Images>
+  </Ad>
+</Ads>
