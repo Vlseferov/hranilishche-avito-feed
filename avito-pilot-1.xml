@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Ads target="Avito.ru" formatVersion="3">
+  <Ad>
+    <Id>HRU-SPB-DISTRICT-01-2026</Id>
+    <DateBegin>2099-01-01 09:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>1200</Price>
+    <Title>Хранение вещей с вывозом из Адмиралтейского района</Title>
+    <Description>Нужно освободить квартиру в Адмиралтейском районе перед ремонтом, но мебель нельзя просто вынести во двор или оставить строителям?
+
+Организуем вывоз по вашему адресу: заранее уточним этаж, наличие лифта, ширину проходов и состав имущества. При необходимости согласуем разборку и упаковку мебели, защиту углов, зеркал и бытовой техники. При приёмке всё маркируется, фотографируется и фиксируется в акте, затем размещается на тёплой охраняемой площадке.
+
+В личном кабинете доступны фотографии, перечень, срок, стоимость и документы. После ремонта вернём всё сразу либо только выбранные позиции на прежний или новый адрес.
+
+Хранение крупного имущества — от 1 200 ₽ в месяц. Логистика, грузчики, этажность и упаковка рассчитываются после состава заказа.</Description>
+    <Address>Санкт-Петербург, 17-я линия Васильевского острова, 52к2</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/01-consumer-storage.png" />
+    </Images>
+  </Ad>
+</Ads>
