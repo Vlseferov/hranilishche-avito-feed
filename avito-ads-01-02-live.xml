@@ -94,7 +94,7 @@
 Хранение рассчитывается по фактическому объёму. Ориентир для крупного имущества от 1 200 ₽ в месяц. Вывоз, упаковка, грузчики и возврат считаются отдельно.
 
 Напишите в сообщения слово «РЕМОНТ» и приложите фотографии комнаты. Рассчитаем объём хранения и стоимость вывоза.]]></Description>
-    <Address>Санкт-Петербург, 17-я линия Васильевского острова, 52к2</Address>
+    <Address>Санкт-Петербург, Московский проспект, 193</Address>
     <WorkWithContract>Да</WorkWithContract>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <Images>
@@ -151,6 +151,55 @@
       <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-03-02-photo-inventory.png"/>
       <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-03-03-pickup.png"/>
       <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-03-04-app.png"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>HRU-SPB-SERVICE-04-2026</Id>
+    <DateBegin>2026-08-20 15:50:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>600</Price>
+    <Title>Уберём коробки и чемоданы из квартиры</Title>
+    <Description><![CDATA[Коробки после переезда, чемоданы между поездками, книги, посуда и одежда постепенно занимают шкафы, балкон и свободные углы?
+
+Не нужно ждать, пока вещей станет слишком много. Передайте тот объём, который мешает прямо сейчас. Хранилище РУ заберёт вещи по вашему адресу, сфотографирует их и добавит в приложение.
+
+📦 Подходит для небольшого объёма
+
+Можно передать несколько коробок, сумок, чемоданов, книги, одежду, декор, семейный архив и другие согласованные бытовые вещи.
+
+📱 Все вещи остаются перед глазами
+
+Каждое принятое место получает карточку с фотографиями. В приложении видны состав имущества, стоимость хранения, документы, оплаты и заявки.
+
+🚚 Сами приедем и заберём
+
+Согласуем дату и время. Для небольшой партии также можно заранее договориться о самостоятельной передаче.
+
+📸 Сфотографируем и промаркируем
+
+На приёмке фиксируем каждое место и добавляем его в ваш цифровой список имущества. Больше не придётся вспоминать, где находится нужная коробка.
+
+🔄 Вернём только то, что понадобилось
+
+Через приложение можно заказать возврат отдельной коробки, нескольких мест или всей партии.
+
+Стоимость стандартного места от 600 ₽ в месяц. Нестандартные предметы рассчитываются по размерам. Вывоз и возврат считаются отдельно.
+
+Напишите в сообщения слово «КОРОБКИ». Укажите количество мест, примерные размеры и желаемый срок. Рассчитаем хранение и вывоз.]]></Description>
+    <Address>Санкт-Петербург, Гражданский проспект, 41</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-04-01-packing.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-04-02-catalog.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-04-03-pickup.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-04-04-app.png"/>
     </Images>
   </Ad>
 </Ads>
