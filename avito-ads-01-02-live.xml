@@ -202,4 +202,57 @@
       <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-04-04-app.png"/>
     </Images>
   </Ad>
+  <Ad>
+    <Id>HRU-SPB-SERVICE-05-2026</Id>
+    <DateBegin>2026-08-20 16:45:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>1200</Price>
+    <Title>Вещи подождут между переездами</Title>
+    <Description><![CDATA[Из старой квартиры уже нужно выезжать, а ремонт в новой ещё не закончен?
+
+Не перевозите мебель и коробки по временным адресам. Хранилище РУ заберёт имущество, сохранит его до готовности нового жилья и доставит обратно в нужную дату.
+
+🚚 Один понятный маршрут
+
+Заберём вещи со старого адреса, разместим на хранение, а после ремонта доставим в новую квартиру.
+
+📦 От коробок до обстановки квартиры
+
+Можно передать мебель, бытовую технику, книги, одежду, посуду, декор и другие согласованные вещи. При необходимости организуем разборку и упаковку.
+
+📱 Всё имущество видно в приложении
+
+Каждая позиция получает карточку с фотографиями. В телефоне отображаются вещи, стоимость, документы, оплаты и заявки.
+
+📸 Состояние фиксируется при приёмке
+
+Фотографируем и маркируем имущество. Вы точно знаете, какие вещи находятся на хранении.
+
+🔄 Можно вернуть вещи частями
+
+Если рабочее кресло, техника или отдельные коробки понадобятся раньше, оформите возврат нужных позиций через приложение.
+
+📅 Храним до готовности нового адреса
+
+Срок можно подобрать под ремонт, ожидание ключей или промежуток между договорами аренды.
+
+Хранение крупного имущества от 1 200 ₽ в месяц. Стоимость зависит от состава и объёма. Вывоз, упаковка, грузчики и доставка на новый адрес рассчитываются отдельно.
+
+Напишите в сообщения слово «ПЕРЕЕЗД». Пришлите фотографии вещей и укажите две даты: когда забрать и когда примерно вернуть. Подготовим расчёт.]]></Description>
+    <Address>Санкт-Петербург, проспект Стачек, 99</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-05-01-packing.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-05-02-catalog.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-05-03-pickup.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-05-04-app.png"/>
+    </Images>
+  </Ad>
 </Ads>
