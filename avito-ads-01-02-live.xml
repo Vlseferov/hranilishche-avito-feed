@@ -104,4 +104,53 @@
       <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-02-04-app.png"/>
     </Images>
   </Ad>
+  <Ad>
+    <Id>HRU-SPB-SERVICE-03-2026</Id>
+    <DateBegin>2026-08-19 16:28:25</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>600</Price>
+    <Title>Сезонные вещи больше не займут шкафы</Title>
+    <Description><![CDATA[Лыжи летом, чемоданы между поездками, санки в июле и коробки с зимней одеждой круглый год занимают место в квартире?
+
+Хранилище РУ станет вашим дополнительным шкафом вне дома. Мы сами заберём сезонные вещи, а вы продолжите управлять ими через приложение.
+
+🏠 Свободные шкафы и балкон
+
+Передайте коробки с одеждой, чемоданы, санки, лыжи, сноуборды, складную мебель, коляски и другие согласованные бытовые вещи.
+
+📱 Все вещи видны в приложении
+
+После приёмки имущество появляется в вашем телефоне. В карточках видны фотографии, состав, стоимость, документы и срок хранения.
+
+🚚 Заберём вещи по вашему адресу
+
+Не нужно искать машину и самостоятельно везти имущество. Согласуем дату, при необходимости поможем с упаковкой и погрузкой.
+
+📦 Храните ровно столько, сколько нужно
+
+Можно передать несколько коробок, чемоданы, коляску, спортивный инвентарь или отдельные крупные вещи. Не нужно собирать большую партию. Заберём тот объём, который сейчас мешает дома.
+
+🔄 Вернём к нужному сезону
+
+Через приложение можно заказать возврат всей партии или только конкретных вещей. Например, вернуть лыжи зимой, а чемоданы оставить до отпуска.
+
+Стоимость стандартного места от 600 ₽ в месяц. Крупные и нестандартные предметы рассчитываются по габаритам. Вывоз и возврат считаются отдельно.
+
+Напишите в сообщения слово «СЕЗОН» и пришлите фотографии вещей. Подскажем подходящий формат и предварительную стоимость.]]></Description>
+    <Address>Санкт-Петербург, проспект Энгельса, 154</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-03-01-packing.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-03-02-photo-inventory.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-03-03-pickup.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-03-04-app.png"/>
+    </Images>
+  </Ad>
 </Ads>
