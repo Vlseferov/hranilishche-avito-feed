@@ -255,4 +255,57 @@
       <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-05-04-app.png"/>
     </Images>
   </Ad>
+  <Ad>
+    <Id>HRU-SPB-SERVICE-06-2026</Id>
+    <DateBegin>2026-08-22 12:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>1200</Price>
+    <Title>Ремонт без мебели под плёнкой</Title>
+    <Description><![CDATA[Шкафы, диван и бытовая техника под плёнкой всё равно мешают рабочим, собирают строительную пыль и замедляют ремонт.
+
+Освободите квартиру полностью. Хранилище РУ заберёт мебель, технику и коробки, сохранит их до окончания работ и вернёт в готовое помещение.
+
+🛋 Уберём крупную мебель
+
+Можно передать диваны, кресла, столы, шкафы, кровати и другую согласованную мебель. При необходимости организуем разборку.
+
+📺 Бережно примем бытовую технику
+
+Согласуем упаковку телевизоров, мониторов, стиральных машин и другой техники. Состояние фиксируется при приёмке.
+
+🚚 Организуем вывоз из квартиры
+
+Подберём транспорт, грузчиков и упаковочные материалы. Заранее уточним этаж, лифт и возможность подъезда.
+
+📱 Все вещи будут в приложении
+
+Каждая позиция получает фотографии и отдельную карточку. В телефоне видны имущество, стоимость хранения, документы, оплаты и заявки.
+
+📸 Понятный учёт без списков на бумаге
+
+Мебель, техника и коробки фотографируются и добавляются в цифровой список. Вы всегда можете открыть приложение и посмотреть, что находится на хранении.
+
+🔄 Вернём после окончания ремонта
+
+Можно заказать доставку всего имущества или сначала вернуть только то, для чего уже готово место.
+
+Стоимость хранения зависит от фактического объёма. Ориентир для крупного имущества от 1 200 ₽ в месяц. Разборка, упаковка, грузчики, вывоз и возврат рассчитываются отдельно.
+
+Напишите в сообщения слово «МЕБЕЛЬ». Пришлите общие фотографии квартиры, укажите этаж и наличие лифта. Подготовим предварительный расчёт.]]></Description>
+    <Address>Санкт-Петербург, улица Савушкина, 141</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-06-01-packing.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-06-02-pickup.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-06-03-catalog.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-06-04-app.png"/>
+    </Images>
+  </Ad>
 </Ads>
