@@ -308,4 +308,57 @@
       <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-06-04-app.png"/>
     </Images>
   </Ad>
+  <Ad>
+    <Id>HRU-SPB-SERVICE-07-2026</Id>
+    <DateBegin>2026-08-28 12:37:08</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>1200</Price>
+    <Title>Новая квартира ещё не готова к вещам</Title>
+    <Description><![CDATA[Ключи уже получили, мебель заказана, а в квартире всё ещё идут отделочные работы?
+
+Не оставляйте коробки, мебель и технику среди строительной пыли. Хранилище РУ заберёт вещи, сохранит их до окончания ремонта и доставит, когда квартира будет готова.
+
+🏗 Освободим квартиру для ремонта
+
+Мебель, техника и коробки не будут занимать комнаты, перекрывать проходы и мешать продолжению отделки.
+
+🚚 Заберём с нужного адреса
+
+Можем вывезти имущество из новой или старой квартиры. При необходимости организуем упаковку и грузчиков.
+
+📦 Примем вещи разного формата
+
+Можно передать коробки, мебель, бытовую технику, книги, посуду, декор и другие согласованные вещи.
+
+📸 Зафиксируем состояние при приёмке
+
+Перед вывозом сотрудник сфотографирует имущество. Каждая принятая позиция будет отдельно зафиксирована.
+
+📱 Все вещи видны в приложении
+
+В приложении отображаются фотографии имущества, стоимость хранения, документы, оплаты и заявки. Не нужно вспоминать, что и когда передали.
+
+🔄 Вернём в удобном порядке
+
+Необязательно забирать всё сразу. Сначала можно вернуть бытовую технику, рабочее место или вещи первой необходимости. Остальное продолжит храниться до окончания ремонта.
+
+Хранение крупного имущества от 1 200 ₽ в месяц. Итоговая стоимость зависит от состава и объёма вещей. Упаковка, грузчики, вывоз и обратная доставка рассчитываются отдельно.
+
+Напишите в сообщения слово «НОВОСТРОЙКА». Пришлите фотографии вещей и укажите примерный срок окончания ремонта. Подготовим расчёт хранения и доставки.]]></Description>
+    <Address>Санкт-Петербург, проспект Большевиков, 18</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-07-01-cover.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-07-02-catalog.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-07-03-loading.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-07-04-app.png"/>
+    </Images>
+  </Ad>
 </Ads>
