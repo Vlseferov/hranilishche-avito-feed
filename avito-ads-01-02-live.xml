@@ -361,4 +361,57 @@
       <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-07-04-app.png"/>
     </Images>
   </Ad>
+  <Ad>
+    <Id>HRU-SPB-SERVICE-08-2026</Id>
+    <DateBegin>2026-08-29 11:00:46</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>600</Price>
+    <Title>Закрываете дачу? Заберём вещи до сезона</Title>
+    <Description><![CDATA[Дачный сезон закончился, а в доме остаются текстиль, коробки, складная мебель и вещи, которые не хочется оставлять без присмотра на всю зиму?
+
+Хранилище РУ заберёт согласованное имущество, сфотографирует его и сохранит до следующего сезона. Управлять вещами можно через приложение.
+
+🏡 Освободите дом перед зимой
+
+Можно передать упакованный текстиль, посуду, декор, коробки, чемоданы, складную мебель, садовые принадлежности и другие согласованные бытовые вещи.
+
+🚚 Сами организуем вывоз
+
+Согласуем дату, объём и возможность подъезда. При необходимости поможем с упаковкой и погрузкой.
+
+📱 Загородные вещи всегда перед глазами
+
+Каждая принятая позиция получает карточку с фотографиями. В приложении видны состав имущества, стоимость, документы, оплаты и заявки.
+
+📸 Зафиксируем состояние
+
+Перед хранением имущество фотографируется и маркируется. Вы точно знаете, какие вещи были переданы.
+
+🔄 Вернём к началу сезона
+
+Можно заказать возврат всей партии или только отдельных вещей. Например, сначала вернуть складную мебель, а коробки оставить до следующей поездки.
+
+📦 Храните только нужный объём
+
+Можно передать несколько коробок или собрать большую сезонную партию. Стоимость рассчитывается по количеству мест и габаритам.
+
+Стоимость стандартного места от 600 ₽ в месяц. Крупные предметы рассчитываются отдельно. Упаковка, вывоз и возврат не входят в минимальную цену.
+
+Напишите в сообщения слово «ДАЧА». Пришлите фотографии вещей и укажите желаемые даты вывоза и возврата. Подготовим расчёт.]]></Description>
+    <Address>Санкт-Петербург, посёлок Парголово, улица Первого Мая, 107к5</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-08-01-cover.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-08-02-packing.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-08-03-pickup.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-08-04-app.png"/>
+    </Images>
+  </Ad>
 </Ads>
