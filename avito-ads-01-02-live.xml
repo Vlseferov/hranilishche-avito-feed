@@ -469,4 +469,57 @@
       <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-09-04-app.png"/>
     </Images>
   </Ad>
+  <Ad>
+    <Id>HRU-SPB-SERVICE-10-2026</Id>
+    <DateBegin>2026-08-31 12:58:21</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>1200</Price>
+    <Title>Освободим загородный дом на нужный срок</Title>
+    <Description><![CDATA[В доме планируется ремонт, замена коммуникаций или длительный перерыв между поездками?
+
+Не оставляйте текстиль, мебель, коробки и декор среди строительных материалов или в закрытом доме без присмотра. Хранилище РУ заберёт согласованные вещи и вернёт их к нужной дате.
+
+🏡 Подготовим дом к работам
+
+Можно передать упакованный текстиль, небольшую мебель, коробки, чемоданы, посуду, книги, декор и другие согласованные бытовые вещи.
+
+🚚 Организуем вывоз
+
+Перед поездкой уточним состав имущества, примерный объём и возможность подъезда. При необходимости согласуем упаковку и погрузку.
+
+📸 Сфотографируем каждую позицию
+
+При приёмке фиксируем состояние имущества и маркируем вещи. Ничего не останется только в бумажном списке.
+
+📱 Весь состав виден в приложении
+
+В телефоне доступны фотографии, карточки имущества, стоимость хранения, документы, оплаты и заявки.
+
+🔄 Возвращайте по мере необходимости
+
+Можно заказать всю партию к окончанию работ или вернуть отдельные вещи раньше.
+
+📦 Подберём формат под объём
+
+Примем несколько коробок или большую партию имущества. Стоимость рассчитывается по количеству мест и габаритам.
+
+Хранение крупного имущества от 1 200 ₽ в месяц. Упаковка, транспорт, грузчики и возврат рассчитываются отдельно.
+
+Напишите в сообщения слово «ДОМ». Пришлите фотографии вещей, укажите желаемый срок и возможность подъезда. Подготовим предварительный расчёт.]]></Description>
+    <Address>Санкт-Петербург, посёлок Лисий Нос, Приморское шоссе, 108</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-10-01-cover.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-10-02-catalog.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-10-03-pickup.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-10-04-app.png"/>
+    </Images>
+  </Ad>
 </Ads>
