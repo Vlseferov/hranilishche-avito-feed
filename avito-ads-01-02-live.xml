@@ -522,4 +522,57 @@
       <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-10-04-app.png"/>
     </Images>
   </Ad>
+  <Ad>
+    <Id>HRU-SPB-SERVICE-11-2026</Id>
+    <DateBegin>2026-09-16 16:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>1200</Price>
+    <Title>Мебель без строительной пыли и повреждений</Title>
+    <Description><![CDATA[Даже под плёнкой мебель остаётся внутри ремонта. Её двигают рабочие, вокруг летит пыль, а углы и поверхности легко повредить.
+
+Хранилище РУ заберёт мебель и предметы интерьера из квартиры, зафиксирует состояние и сохранит их до окончания работ.
+
+🛋 Примем мебель и предметы интерьера
+
+Можно передать диваны, кресла, столы, шкафы, ковры, зеркала, светильники, декор и другие согласованные вещи.
+
+📦 Подберём защитную упаковку
+
+Для углов, зеркал, стеклянных элементов, техники и деликатных поверхностей заранее согласуем подходящий вариант упаковки.
+
+🚚 Организуем аккуратный вывоз
+
+Уточним габариты, этаж, наличие лифта и ширину проходов. При необходимости разберём крупную мебель и подготовим её к перевозке.
+
+📸 Зафиксируем состояние
+
+Каждая позиция фотографируется при приёмке, маркируется и получает отдельную карточку.
+
+📱 Всё имущество видно в приложении
+
+В телефоне доступны фотографии вещей, документы, стоимость хранения, оплаты и заявки на возврат.
+
+🔄 Вернём в готовый интерьер
+
+Можно заказать всё имущество после ремонта или сначала вернуть отдельные предметы, для которых уже подготовлено место.
+
+Стоимость хранения зависит от фактического объёма. Ориентир для крупного имущества от 1 200 ₽ в месяц. Упаковка, разборка, грузчики, вывоз и возврат рассчитываются отдельно.
+
+Напишите в сообщения слово «БЕРЕЖНО». Пришлите фотографии мебели и укажите этаж, лифт и желаемую дату вывоза. Подготовим расчёт.]]></Description>
+    <Address>Санкт-Петербург, Петроградский район</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-11-01-cover.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-11-02-packing.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-11-03-pickup.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-11-04-app.png"/>
+    </Images>
+  </Ad>
 </Ads>
