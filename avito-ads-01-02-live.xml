@@ -575,4 +575,57 @@
       <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-11-04-app.png"/>
     </Images>
   </Ad>
+  <Ad>
+    <Id>HRU-SPB-SERVICE-12-2026</Id>
+    <DateBegin>2026-09-24 15:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>1200</Price>
+    <Title>Хранение вещей при переезде с возвратом по частям</Title>
+    <Description><![CDATA[Необязательно перевозить всю квартиру за один день и потом неделями жить среди коробок.
+
+Хранилище РУ заберёт имущество со старого адреса, разместит его на хранение и будет возвращать вещи по мере готовности комнат в новой квартире.
+
+📦 Не загромождайте новое жильё
+
+Коробки, мебель и техника не будут мешать сборке кухни, установке дверей, уборке и завершению отделки.
+
+🚚 Заберём вещи со старого адреса
+
+Согласуем дату, транспорт и объём. При необходимости организуем упаковку, разборку мебели и грузчиков.
+
+📱 Весь переезд виден в приложении
+
+Каждая позиция получает карточку с фотографиями. В телефоне доступны вещи, стоимость хранения, документы, оплаты и заявки на возврат. Не нужно вспоминать, что куда убрали: открыли приложение, выбрали нужное, оформили заявку.
+
+🔄 Возвращайте только то, что уже нужно
+
+Сначала можно вернуть холодильник, посуду и вещи первой необходимости. Затем, когда комнаты будут готовы, остальную технику, мебель и коробки. Необязательно забирать всё сразу.
+
+📸 Фотографии и учёт имущества
+
+При приёмке имущество фотографируется и маркируется. Вы видите в приложении, какие вещи находятся на хранении.
+
+📅 Срок подстраивается под готовность квартиры
+
+Вещи могут храниться до окончания ремонта, сборки мебели или полного переезда.
+
+Хранение крупного имущества от 1 200 ₽ в месяц. Стоимость зависит от состава и объёма. Упаковка, грузчики, вывоз и последующие доставки рассчитываются отдельно.
+
+Напишите в сообщения слово «ПОЭТАПНО». Пришлите фотографии вещей и укажите, что понадобится вернуть в первую очередь. Подготовим расчёт хранения и перевозок.]]></Description>
+    <Address>Санкт-Петербург</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-12-01-cover.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-12-02-packing.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-12-03-app.png"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/ad-12-04-partial-return.png"/>
+    </Images>
+  </Ad>
 </Ads>
