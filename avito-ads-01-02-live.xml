@@ -724,4 +724,48 @@
       <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/b2b-machinery-04.jpg"/>
     </Images>
   </Ad>
+  <Ad>
+    <Id>HRU-B2B-HANDLING-2026</Id>
+    <DateBegin>2026-09-25 16:00:00</DateBegin>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Другое</ServiceType>
+    <ServiceSubtype>Ещё услуги</ServiceSubtype>
+    <Direction>Другое</Direction>
+    <Price>150</Price>
+    <Title>Погрузка и разгрузка коммерческих грузов</Title>
+    <Description><![CDATA[Хранилище РУ для бизнеса
+
+Машина с товаром уже в пути, а вопрос с разгрузкой ещё не решён? Поможем принять груз, разгрузить и подготовить его к следующему этапу.
+
+💬 Напишите нам, что и когда приезжает
+Пришлите фото груза, количество мест, размеры и вес. Укажите тип машины и адрес. Проверим возможность работ, подберём способ разгрузки и заранее согласуем стоимость.
+
+🚛 Погрузка и разгрузка под ваш груз
+Паллеты, короба, оборудование и другие согласованные коммерческие грузы. Учтём боковую или заднюю загрузку, условия подъезда и особенности упаковки. Для тяжёлых и нестандартных мест отдельно проверим требования к технике.
+
+📦 Не просто снять с машины
+По вашему заданию совместим разгрузку с приёмкой, проверкой количества грузовых мест и фотофиксацией состояния упаковки. При необходимости согласуем переупаковку, паллетирование и подготовку к дальнейшей отгрузке.
+
+🔄 Следующий адрес ещё не готов принять поставку?
+Можно согласовать временное хранение и выдачу нужными партиями. Необязательно забирать всё сразу, если товар требуется на нескольких объектах или в разные даты.
+
+📱 Если груз остаётся у нас на хранении
+Фотографии, состав имущества, документы и заявки доступны в кабинете компании с телефона или компьютера. Предварительную стоимость хранения можно посмотреть в 3D-конструкторе. Погрузочные работы и перевозка рассчитываются отдельно.
+
+Напишите нам или позвоните. Расскажите о поставке, а мы поможем согласовать все нужные этапы: разгрузку, приёмку, хранение и следующую отгрузку.
+
+Время подачи машины и состав работ согласуем заранее. Стоимость зависит от количества мест, массы, габаритов и условий работы.]]></Description>
+    <Address>Санкт-Петербург, станция метро Звёздная</Address>
+    <WorkWithContract>Да</WorkWithContract>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/b2b-handling-01.jpg"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/b2b-handling-02.jpg"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/b2b-handling-03.jpg"/>
+      <Image url="https://raw.githubusercontent.com/Vlseferov/hranilishche-avito-feed/main/media/b2b-handling-04.jpg"/>
+    </Images>
+  </Ad>
 </Ads>
